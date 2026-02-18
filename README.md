@@ -26,28 +26,25 @@ Se trabajó con archivos CSV, Excel, Google Sheets, JSON, HTML, XML y bases de d
 
 ## Estructura del Proyecto
 
-
-#├── data/
-#│ ├── archivos_csv/
-#│ ├── archivos_excel/
-#│ ├── archivos_json/
-#│ ├── archivos_xml/
-#│ ├── archivos_html/
-#│ └── base_datos/
-#│
-#├── notebooks/
-#│ └── manipulacion_archivos.ipynb
-#│
-#├── src/
-#│ ├── csv_handler.py
-#│ ├── excel_handler.py
-#│ ├── json_handler.py
-#│ ├── xml_handler.py
-#│ ├── html_handler.py
-#│ └── database_handler.py
-#│
-#├── README.md
-#└── requirements.txt
+'''
+├── data/
+│ ├── archivos_csv/
+│ ├── archivos_excel/
+│ ├── archivos_json/
+│ └── base_datos/
+│
+├── notebooks/
+│ └── manipulacion_archivos.ipynb
+│
+├── src/
+│ ├── csv_handler.py
+│ ├── xml_handler.py
+│ ├── html_handler.py
+│ └── database_handler.py
+│
+├── README.md
+└── requirements.txt
+'''
 
 
 ---
