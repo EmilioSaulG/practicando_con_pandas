@@ -26,7 +26,7 @@ Se trabajó con archivos CSV, Excel, Google Sheets, JSON, HTML, XML y bases de d
 
 ## Estructura del Proyecto
 
-'''
+```
 ├── data/
 │ ├── archivos_csv/
 │ ├── archivos_excel/
@@ -44,7 +44,7 @@ Se trabajó con archivos CSV, Excel, Google Sheets, JSON, HTML, XML y bases de d
 │
 ├── README.md
 └── requirements.txt
-'''
+```
 
 
 ---
